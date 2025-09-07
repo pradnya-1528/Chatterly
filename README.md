@@ -98,12 +98,7 @@ Build the application for production:
 npm run build
 ```
 
-## 🙏 Acknowledgments
-
-- Built with [Rocket.new](https://rocket.new)
-- Powered by React and Vite
-- Styled with Tailwind CSS
-
-Built with ❤️ on Rocket.new
 [![Watch the video](https://via.placeholder.com/600x400.png?text=Watch+Video)](https://drive.google.com/file/d/15KqGhdnmXb657PTXkK-7_kErVJVqlZev/view?usp=sharing)
 [![Watch the video](https://via.placeholder.com/600x400.png?text=Watch+Video)](https://drive.google.com/file/d/1W46xQLd0OiWkkHKsvmc8mABsIQTTserV/view?usp=sharing)
+[View My Presentation](https://docs.google.com/presentation/d/1BAFmkA5WrB8FwxR1_AvPVdWmHBkQFiya/view?usp=sharing)
+
